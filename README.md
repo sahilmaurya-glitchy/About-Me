@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hi, I'm Sahil Maurya, a 17-year-old full-stack developer <br>As a content creator, I run the Instagram page and YouTube channel "GLITCHY," where I have amassed over 3.7k followers and 12.5k subscribers, respectively. My content mainly features hacking memes and edits, providing both entertainment and education to my audience. 🎥📱<br>🔭 I’m currently working on the weather app 
+<br>Hi, I'm Sahil Maurya, a 17-year-old full-stack developer <br>As a content creator, I run the Instagram page and YouTube channel "GLITCHY," where I have amassed over 3.7k followers and 12.5k subscribers, respectively. My content mainly features hacking memes and edits, providing both entertainment and education to my audience. 🎥📱
 
 
 ## 🌐 Socials:
